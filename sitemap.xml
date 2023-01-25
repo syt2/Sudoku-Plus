@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://syt2.github.io/DOI-in-PDF/</loc>
     <lastmod>2022-12-03T10:14:33+08:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://syt2.github.io/DOI-in-PDF/post/</loc>
     <lastmod>2022-12-03T10:14:33+08:00</lastmod>
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>https://syt2.github.io/DOI-in-PDF/privacy-policy/</loc>
     <lastmod>2022-12-03T10:14:33+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://syt2.github.io/DOI-in-PDF/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://syt2.github.io/DOI-in-PDF/tags/</loc>
   </url>
 </urlset>
