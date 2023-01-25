@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DOI in PDF</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on DOI in PDF</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 03 Dec 2022 10:14:33 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy-policy/</link>
+      <pubDate>Sat, 03 Dec 2022 10:14:33 +0800</pubDate>
+      
+      <guid>/privacy-policy/</guid>
+      <description>Privacy Policy Shen YuTao built the PDF in DOI app as a Freemium app. This SERVICE is provided by Shen YuTao at no cost and is intended for use as is. This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection</description>
+    </item>
+    
+  </channel>
+</rss>
